@@ -1,11 +1,8 @@
 Hola clase!!
-<<<<<<< HEAD
 
 cambio
-
 cambio 2
 Conflicto Marcos Zueco Llera
-=======
 Marcos Zueco Llera, marcoszueco25@gmail.com, Windows 11
->>>>>>> marcos_zueco_llera
 Conflicto en main
+Creación de conflicto en la rama
