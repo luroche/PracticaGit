@@ -1,2 +1,10 @@
+<<<<<<< HEAD
+Creación de conflicto
+Fran Garcia haciendo de las suyas, callaos coño
+=======
 Creación de conflictoConflicto Carlos Ramirez
+<<<<<<< HEAD
 Carlos Ramirez, cjramirezgarcia.074@gmail.com, Windows 11
+=======
+>>>>>>> 9dec82ca199c59330f0c6adf789da73ee512c0df
+>>>>>>> 3c1fe82232a274849f8e67305bf6765130f2bd70
