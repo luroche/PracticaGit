@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Creación de conflicto
 Fran Garcia haciendo de las suyas, callaos coño
+=======
+Creación de conflictoConflicto Carlos Ramirez
+>>>>>>> 9dec82ca199c59330f0c6adf789da73ee512c0df
