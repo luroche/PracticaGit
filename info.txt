@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hola clase!!
 Creando conflicto
 Creación de conflicto
@@ -7,3 +8,4 @@ Creación de conflictoConflicto Carlos Ramirez
 Carlos Ramirez, cjramirezgarcia.074@gmail.com, Windows 11
 Lili Wu Creacion del conflicto :)))) Holaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 Miau ^W^!!!
+>>>>>>> jose_conde_castaño
