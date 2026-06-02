@@ -1,5 +1,5 @@
 
-llll ola 
+Irene creando un conflicto y modificado manualmente para mergearlo
 Contenido fusionado para resolver el conflicto
 Voy a generar un conflicto vamos a probar de nuevo
 Linea desde main
